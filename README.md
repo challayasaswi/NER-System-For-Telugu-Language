@@ -1,4 +1,4 @@
-🧠 **Hybrid Fine-Grained NER System for Low-Resource Telugu Text**
+🧠 **Hybrid Fine-Grained NER System for Low-Resource Telugu Text** | 
 **Semi-Supervised & Explainable Learning Approach**
 
 📌 **Project Overview**
