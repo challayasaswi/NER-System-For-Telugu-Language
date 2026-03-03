@@ -39,8 +39,6 @@ This project addresses these challenges by combining semi-supervised learning wi
 
 🔄 Semi-Supervised learning to leverage unlabeled data
 
-🔍 Transformer-based model (HuggingFace)
-
 🧠 Explainable AI using LIME
 
 🎨 Interactive Streamlit frontend
@@ -60,8 +58,6 @@ Input Telugu Text
         ↓
 Tokenizer (AutoTokenizer)
         ↓
-Transformer Model
-        ↓
 Fine-Grained Entity Prediction
         ↓
 LIME Explainability Layer
@@ -71,8 +67,6 @@ Streamlit UI Output
 📊 **Model Details**
 
 Tokenization: AutoTokenizer
-
-Architecture: Transformer-based token classification
 
 Learning Type: Semi-Supervised
 
