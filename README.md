@@ -3,11 +3,9 @@
 
 📌 **Project Overview**
 
-This project presents a Hybrid Fine-Grained Named Entity Recognition (NER) System designed specifically for low-resource Telugu text.
+This project presents a Named Entity Recognition (NER) System designed specifically for low-resource Telugu text.
 
 The system leverages:
-
-Transformer-based models
 
 Semi-Supervised Learning
 
